@@ -1,0 +1,14 @@
+# Obsidian workspace & cache
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/plugins/
+.obsidian/cache/
+.obsidian/sync.json
+.obsidian/workspace-*.json
+
+# System files
+.DS_Store
+Thumbs.db
